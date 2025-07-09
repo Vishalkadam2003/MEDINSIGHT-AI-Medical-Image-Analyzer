@@ -1,3 +1,5 @@
+> ⚠️ **Notice**: This project is protected under Creative Commons. Do not copy or re-upload without permission. Ownership belongs to **Vishal Kadam**.
+
 # MEDINSIGHT-AI-Medical-Image-Analyzer
 Developed an AI-powered web app for automatic Chest X-ray disease detection and Brain MRI tumor classification using deep learning (TensorFlow/PyTorch). Features include real-time analysis, PDF report generation, and secure patient data storage with an intuitive Flask and Bootstrap-based UI.
  AI-Powered Medical Image Analyzer
@@ -30,3 +32,11 @@ Model improvement for even higher accuracy and faster inference
 
 Why this project?
 To assist doctors and radiologists with quick, reliable, and accessible AI-based diagnosis tools — especially useful in remote areas or resource-limited settings.
+
+## 🧾 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+You may **view and reference** this project, but you may **not use, modify, or redistribute** it without giving full credit to the original author.
+
+🔗 [View License Details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
